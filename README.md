@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aubinclem
 - 👀 I’m interested in Coding/Video games
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects such as DOORS
+- 💞️ I’m looking to collaborate on projects such as Bucket
 - 📫 How to reach me: You can contact me by using the github message feature!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Capybaras are fantastic swimmers
